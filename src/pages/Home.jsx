@@ -2,6 +2,7 @@ import { Estrela } from "../componets/Estrela";
 import { Habilidades } from "../componets/Habilidades";
 import { Inicio } from "../componets/Inicio";
 import { Navbar } from "../componets/NavBar";
+import { Projetos } from "../componets/Projetos";
 import { SobreMim } from "../componets/SobreMim";
 import { Tema } from "../componets/Tema";
 
@@ -16,6 +17,7 @@ export const Home = () => {
                 <Inicio />
                 <SobreMim />
                 <Habilidades />
+                <Projetos />
                 
             </main>
             
