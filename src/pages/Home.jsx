@@ -1,6 +1,7 @@
 import { Estrela } from "../componets/Estrela";
 import { Inicio } from "../componets/Inicio";
 import { Navbar } from "../componets/NavBar";
+import { SobreMim } from "../componets/SobreMim";
 import { Tema } from "../componets/Tema";
 
 export const Home = () => {
@@ -12,7 +13,7 @@ export const Home = () => {
 
             <main>
                 <Inicio />
-                
+                <SobreMim />
             </main>
             
         </div>
