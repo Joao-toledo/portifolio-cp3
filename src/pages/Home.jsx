@@ -1,4 +1,5 @@
 import { Estrela } from "../componets/Estrela";
+import { Habilidades } from "../componets/Habilidades";
 import { Inicio } from "../componets/Inicio";
 import { Navbar } from "../componets/NavBar";
 import { SobreMim } from "../componets/SobreMim";
@@ -14,6 +15,8 @@ export const Home = () => {
             <main>
                 <Inicio />
                 <SobreMim />
+                <Habilidades />
+                
             </main>
             
         </div>
