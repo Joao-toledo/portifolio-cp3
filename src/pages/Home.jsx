@@ -1,4 +1,4 @@
-import { Contato } from "../componets/contato";
+import { Contato } from "../componets/Contato";
 import { Estrela } from "../componets/Estrela";
 import { Habilidades } from "../componets/Habilidades";
 import { Inicio } from "../componets/Inicio";
